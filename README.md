@@ -1,2 +1,3 @@
-# hasura-boiler
+# Hasura Boilerplate
+
 web app boilerplate
